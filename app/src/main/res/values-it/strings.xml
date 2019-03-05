@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pais">Italia</string>
+    <string name="flagDescription">bandiera dell Italia</string>
+    <string name="fooDescription">Cibo italiano</string>
+    <string name="foodText">Lasanha</string>
+    <string name="app_name">Paesi</string>
+</resources>
